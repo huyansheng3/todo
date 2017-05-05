@@ -5,3 +5,5 @@
 用于[TODO](http://www.axetroy.xyz/#/todo)
 
 Issue最多只能有一个label
+
+### [新建TODO](https://github.com/axetroy/todo/issues/new)
