@@ -24,11 +24,3 @@
 **相关链接**
 
 [https://github.com/axetroy/todo](https://github.com/axetroy/todo)
-
-**状态**
-
-- [x] 未开始
-- [ ] 进行中
-- [ ] 已完成
-- [ ] 暂搁置
-- [ ] 已废弃
